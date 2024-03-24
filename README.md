@@ -1,8 +1,6 @@
 BANGLA
 ======
 
-|Build Status| |Version| |Python| |Size| |Codecov|
-
 Bangla is a package for Bangla language users with various functionalities including Bangla date and Bangla numeric conversation.
 
 It can be used to get Bangla date that includes year, month, date, weekday and season of Bangla year.
