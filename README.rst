@@ -74,9 +74,10 @@ To convert any English numeric string to Bangla numeric string :
 Contribute
 ~~~~~~~~~~
 
-Create Github Pull Request https://github.com/arsho/bangla/pulls
+If you have suggestion use GitHub issue system.
 
-If you have suggestion use GitHub issue system or send a message in Facebook https://www.facebook.com/ars.shovon.
+If you wanna be a fam part join our Whatsapp group : [![Static Badge](https://img.shields.io/badge/join-green?style=for-the-badge&logo=whatsapp&logoColor=white&label=Coder's--hub&labelColor=green)
+](https://chat.whatsapp.com/E3wdmctRbRX6CadaylO80f)
 
 Thanks
 ~~~~~~
